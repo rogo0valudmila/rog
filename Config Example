@@ -1,0 +1,9 @@
+
+---
+
+### ⚙️ **config.json**
+```json
+{
+  "default_path": "data.json",
+  "pretty_print": true
+}
